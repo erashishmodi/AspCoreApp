@@ -1,0 +1,7 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/bholenaath/.nuget/packages"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+/home/bholenaath/testapp/bin/Debug/netcoreapp1.1/testapp.deps.json
+/home/bholenaath/testapp/bin/Debug/netcoreapp1.1/testapp.runtimeconfig.json
+/home/bholenaath/testapp/bin/Debug/netcoreapp1.1/testapp.runtimeconfig.dev.json
+/home/bholenaath/testapp/bin/Debug/netcoreapp1.1/testapp.dll
+/home/bholenaath/testapp/bin/Debug/netcoreapp1.1/testapp.pdb
+/home/bholenaath/testapp/obj/Debug/netcoreapp1.1/testapp.AssemblyInfo.cs
+/home/bholenaath/testapp/obj/Debug/netcoreapp1.1/testapp.dll
+/home/bholenaath/testapp/obj/Debug/netcoreapp1.1/testapp.pdb

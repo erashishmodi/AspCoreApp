@@ -1,0 +1,5 @@
+﻿@model List<testapp.Models.UserModel>
+@ViewBag.UserName
+@foreach(var i in Model){
+    <p>@i.UserId @i.UserName</p>
+}
